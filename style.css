@@ -6,10 +6,23 @@ h1 {
     
 }
 img {
- width: 800px;
+ width: 1200px;
     background: #fff;
     
 }
 body{
     background: #4776E6; 
+}
+a {
+   background: #bfef66;
+    color: rgba(255, 255, 255, 0.94);
+    padding: 10px 25px;
+    border-radius: 180px;
+    margin: 15px 5px;
+    text-decoration: none;
+}
+a:hover{
+     background: #19a71e;
+    color: #222020;
+    transition: 0.3;
 }
