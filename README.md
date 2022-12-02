@@ -1,1 +1,0 @@
-# savokSSSR.github.io
